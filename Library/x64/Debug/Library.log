@@ -1,0 +1,9 @@
+﻿  Administrator.cpp
+  Book.cpp
+  Reader.cpp
+  User.cpp
+  Generating Code...
+D:\Programs\VisualStudio\Library\Library\User.cpp(18): error C4716: 'User::operator=': must return a value
+D:\Programs\VisualStudio\Library\Library\Reader.cpp(18): error C4716: 'Reader::operator=': must return a value
+D:\Programs\VisualStudio\Library\Library\Book.cpp(34): error C4716: 'Book::operator=': must return a value
+D:\Programs\VisualStudio\Library\Library\Administrator.cpp(19): error C4716: 'Administrator::operator=': must return a value
